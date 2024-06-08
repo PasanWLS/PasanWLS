@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanwls&label=Profile%20views&color=0e75b6&style=flat" alt="pasanwls" /> </p>
 
-- 🔭 I’m currently working on **freelancer**
 - 👨‍🎓 Undergraduate at **University of Sri Jayewardenepura**
-- 👨‍💻 All of my projects are available at [www.pasan.tech](www.pasan.tech)
 - ⚡ Fun fact **Simple & Funny**
 
 <h3 align="left">Connect with me:</h3>
