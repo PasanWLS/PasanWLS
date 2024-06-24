@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasanwls&label=Profile%20views&color=0e75b6&style=flat" alt="pasanwls" /> </p>
 
-- 👨‍🎓 Undergraduate at **University of Sri Jayewardenepura**
-- ⚡ Fun fact **Simple & Funny**
+- 👨‍🎓 Undergraduate at **University of Sri Jayewardenepura [B.Sc. (Honours) Applied Sciences in Electronics & Embedded Systems]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
